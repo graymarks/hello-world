@@ -1,3 +1,0 @@
-# hello-world
-
-My name is Steph and lorem ipum...
